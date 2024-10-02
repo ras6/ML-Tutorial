@@ -1,0 +1,4 @@
+# ML -> basics
+
+1. Rank is interchangeable used for Dimension of a tensor.
+2. Shape of tensor is number of elements in it and to use the shape of a tensor it needs to be uniform.
